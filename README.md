@@ -15,16 +15,7 @@ When I’m not stuck debugging something that should totally work but doesn’t,
   - 📚 **Reading manga or books** (words are easier to debug than code).
   - 🌀 **Staring into the void**, contemplating life, AI, and whether I should finally clean my workspace.
 
-### 📊 GitHub Stats
-![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oenarion&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oenarion&layout=compact&theme=radical)
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Oenarion&label=Profile%20views&color=red&style=flat)
-
 ### 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-galfano-706abb21b/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzo.galfano00@gmail.com)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/oenarion/)
